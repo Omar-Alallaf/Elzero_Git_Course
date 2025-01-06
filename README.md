@@ -12,37 +12,30 @@
 
 ## Codes
 
-<!-- Git Clone From The Remote Repo To Local -->
-
 - git clone (Path)
-
-<!-- Git Status To Know Files Status (Untracked) -->
+  Git Clone From The Remote Repo To Local
 
 - git status
-
-<!-- Adding Files To Staging Area -->
+  Git Status To Know Files Status (Untracked)
 
 - git add (Folder Name) (File Name)
+  Adding File To Staging Area
 
 - git add \* (To Add All Files)
-
-<!-- Unstage File From Staging Area -->
+  Adding All Files To Staging Area
 
 - git reset head (File Name)
-
-<!-- Send Files To Local Repo (You Write In The Message The Description About What You Did) -->
+  Unstage File From Staging Area
 
 - git commit -m (Message)
-
-<!-- To Know How The Branches In Your Local -->
+  Send Files To Local Repo (You Write In The Message The Description About What You Did)
 
 - git branch
-
-<!-- To Know Your Remote -->
+  To Know How The Branches In Your Local
 
 - git remote -v
-
-<!-- Pushing To Remote -->
+  To Know Your Remote
 
 - git push (Remote Name) (Branch Name)
-  EXAMPLE git push origin master
+  **EXAMPLE** git push origin master
+  Pushing To Remote
